@@ -20,7 +20,7 @@ curl -X 'POST' \
   -H 'accept: application/json' \
   -H 'Content-Type: application/json' \
   -d '{
-  "promt": "I love playing volleyball",
+  "prompt": "I love playing volleyball",
   "max_tokens_to_generate": 50
 }'
 ```
